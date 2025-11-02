@@ -26,3 +26,4 @@ int main() {
     cout << endl << "恭喜你，猜对了!" << endl;
     return 0;
 }
+
